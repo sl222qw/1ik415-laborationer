@@ -1,0 +1,4 @@
+{"ts":1378911743871,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1378911865198,"patch":[[{"diffs":[[1,"<!doctype html>\n<html lang =\"sv\">\n    <head>\n        <meta charset=\"utf-8\"/>\n        \n    </head>\n    \n    \n    \n</html>"]],"start1":0,"start2":0,"length1":0,"length2":120}]],"length":120,"saved":false}
+{"ts":1378912081478,"patch":[[{"diffs":[[0,"tf-8\"/>\n"],[1,"        <title>Susannes blogg</title>\n"],[0,"        "]],"start1":69,"start2":69,"length1":16,"length2":54}]],"length":158,"saved":false}
+{"ts":1378912341886,"patch":[[{"diffs":[[0,"e>\n        \n"],[1,"        <body>\n            <h1>Susanne Blogg</h1>\n        </body>\n        \n"],[0,"    </head>\n"]],"start1":112,"start2":112,"length1":24,"length2":99}]],"length":233,"saved":false}
